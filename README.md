@@ -2,11 +2,6 @@
 
 Webpack plugin to generating a custom JSON asset. And more feature is : watching file change , supporting generate function config.
 
-### Installation
-
-```shell
-npm install webpack-plugin-generate-json
-```
 
 ### Usage
 
