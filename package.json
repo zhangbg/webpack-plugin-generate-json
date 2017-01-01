@@ -1,0 +1,14 @@
+{
+  "name": "webpack-plugin-generate-json",
+  "version": "1.0.0",
+  "description": "webpack plugin to generate new json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack-plugin-generate-json"
+  ],
+  "author": "zhangbg",
+  "license": "ISC"
+}
